@@ -17,7 +17,7 @@ My native language is Spanish. I also have advanced English skills, and know a l
 ![Static Badge](https://img.shields.io/badge/English-black)
 ![Static Badge](https://img.shields.io/badge/French-black)
 
-I am **currently** advancing and improving my knowledge in java through the "Píldoras Informáticas" Java course.
+I am **currently** advancing and improving my knowledge in java through the "Píldoras Informáticas" Java course, and also learning **HTML**, **CSS** and **JavaScript**.
 
 _Fun fact_: I am sound technician 🎚️, I play the piano 🎹 and have knowledge of music theory 🎵. I love learning new things.
 
