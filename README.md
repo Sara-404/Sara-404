@@ -1,5 +1,5 @@
 ## Hi, My name is Sara García 😊
-I'm a **DAM** (Multiplatform Application Development) **student**, with just the FCT internship remaining.
+I'm a **DAM** (Multiplatform Application Development) **technician**.
 
 I like programming in general, but what I like the most is **Mobile Development** 📱.
 
@@ -19,7 +19,7 @@ My native language is Spanish. I also have advanced English skills, and know a l
 
 I am **currently** advancing and improving my knowledge in java through the "Píldoras Informáticas" Java course, and also learning **HTML**, **CSS** and **JavaScript**.
 
-_Fun fact_: I am sound technician 🎚️, I play the piano 🎹 and have knowledge of music theory 🎵. I love learning new things.
+_Fun fact_: I am sound technician too🎚️, I play the piano 🎹 and have knowledge of music theory 🎵. I love learning new things.
 
 <!--
 **Sara-404/Sara-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
