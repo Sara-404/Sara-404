@@ -8,7 +8,7 @@ I like programming in general, but what I like the most is **Mobile Development*
 * ![Java](https://img.shields.io/badge/Java-Medium-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=9e001f)
 * ![JavaScript](https://img.shields.io/badge/JavaScript-Medium-grey?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
 * ![Kotlin](https://img.shields.io/badge/Kotlin-Medium-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=66d854)
-* ![C#](https://img.shields.io/badge/C%23-Medium-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=7407ff)
+* ![C#](https://img.shields.io/badge/C%23-Low-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=7407ff)
 
 
 ### Tools I use
