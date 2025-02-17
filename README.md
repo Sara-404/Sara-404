@@ -28,7 +28,7 @@ And, I am familiar with the basics of Git  and GitHub.
 
 #
 ### Currently...
-I am **currently** advancing and improving my knowledge in java through the "Píldoras Informáticas" Java course, I am practicing my programming skills through **LeetCode** code problems, and also learning **HTML** and **CSS**.
+I am **currently** advancing and improving my knowledge in java through the "Píldoras Informáticas" Java course, I am practicing my programming skills through **LeetCode** code problems, and also learning **React**.
 # 
 My native language is **Spanish**. I also have an advanced level of **English**, and know a little about **French**.
 
